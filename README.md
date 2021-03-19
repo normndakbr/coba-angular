@@ -1,3 +1,3 @@
-# coba-angular
+# angular-testdrive
 
-Coba pakai angular
+Test drive of using Angular JS Framework
